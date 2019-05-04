@@ -1,5 +1,5 @@
 # Cache-Simulator
-This program is written in C and it simulates Bélády and Least Recently Used cache replacement methods. It reads in a series of non-zero memory addresses from a .dat file and a command line argument telling it which cache method to use. It also takes command line arguments to determine whether to construct a direct-mapped, 2-way, or 4-way set associative cache. As memory addresses are read in it determines whether there is a hit or miss in the cache construct. It outputs the total amount of hits and misses.
+This program is written in C and it simulates Bélády and Least Recently Used cache replacement methods. It reads in a series of non-zero memory addresses from a .dat file and a command line argument telling it which cache method to use. It also takes command line arguments to determine whether to construct a direct-mapped, 2-way, or 4-way set associative cache. As memory addresses are read in it determines whether there is a hit or miss in the cache construct. It outputs the total amount of hits and misses. Note that the default cache size is 256.
 
 ## Command Line Arguments
 ```./a.out ASSOCIATIVITY CACHE_STYLE INPUT_FILE```
