@@ -32,4 +32,5 @@ Cache algorithm: LRU
 Cache accesses: 10
 Cache hits: 3
 Cache misses: 7
-Overall hit rate: 0.300000```
+Overall hit rate: 0.300000
+```
