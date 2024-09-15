@@ -1,4 +1,3 @@
-// FILE: hw6.c
 // NAME: Chris Turgeon
 // ARGS: ./a.out 2 LRU ex01.dat
 
